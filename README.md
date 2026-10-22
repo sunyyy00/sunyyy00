@@ -12,9 +12,8 @@
 
 ## Tech Stack
 - Java
-- DSA
-- Python
 - Git & GitHub
+- DSA (Learning)
 - SQL (Learning)
 - Spring Boot (Learning)
 
